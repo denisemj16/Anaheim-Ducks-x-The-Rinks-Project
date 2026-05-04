@@ -1,2 +1,2 @@
-# Anaheim-Ducks-x-The-Rinks-Project
-Sports analytics project with The Anaheim Ducks x The Rinks, applying Python, SQL, and Tableau to build dashboards and predictive models for data-driven decision-making.
+# Machine Learning Classification for Bank Marketing Response Prediction
+Developed a machine learning model to predict bank marketing campaign subscriptions using logistic regression, decision trees, and SMOTE optimization
